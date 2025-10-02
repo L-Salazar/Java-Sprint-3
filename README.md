@@ -9,7 +9,7 @@
 
 # Video
 
-Link: youtube.com/watch?v=mj4ZYCiJ8-8&feature=youtu.be
+[Link do video](https://youtube.com/watch?v=mj4ZYCiJ8-8&feature=youtu.be) - youtube.com/watch?v=mj4ZYCiJ8-8&feature=youtu.be
 
 ## Descrição
 
